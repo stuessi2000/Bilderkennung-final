@@ -1,0 +1,59 @@
+# Python Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtuelle Umgebungen
+venv/
+.env/
+.venv/
+ENV/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
+
+# Bilder und große Daten (nur Inhalt, nicht die Ordner selbst)
+faces/*
+debug_cubes_output/*
+debug_zielbild_output/*
+extracted_target/*
+hig_raw_cubes/*
+hig_raw_zielbild/*
+matched_visuals/*
+png_cubes/*
+png_zielbild/*
+target_tiles/*
+
+# Aber: .gitkeep erlauben
+!faces/.gitkeep
+!debug_cubes_output/.gitkeep
+!debug_zielbild_output/.gitkeep
+!extracted_target/.gitkeep
+!hig_raw_cubes/.gitkeep
+!hig_raw_zielbild/.gitkeep
+!matched_visuals/.gitkeep
+!png_cubes/.gitkeep
+!png_zielbild/.gitkeep
+!target_tiles/.gitkeep
+
+# Nur Bilddateien ignorieren
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.tiff
+*.tif
+*.ico
+*.webp
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Office temporär
+~$*
