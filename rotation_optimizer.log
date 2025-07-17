@@ -1,0 +1,71 @@
+2025-07-17 19:36:49,930 - INFO - Koordinaten für 9 Objekte aus objekte.txt gelesen
+2025-07-17 19:36:49,930 - INFO - Matches für 8 Objekte aus zwi_pos.txt gelesen
+2025-07-17 19:36:49,930 - INFO - Optimiere Rotation für Würfel 2 mit Target Ziel_1_0
+2025-07-17 19:36:50,011 - INFO -   Rotation 0°: Combined Score = 0.1577
+2025-07-17 19:36:50,027 - INFO -   Rotation 90°: Combined Score = 0.0418
+2025-07-17 19:36:50,040 - INFO -   Rotation 180°: Combined Score = 0.0580
+2025-07-17 19:36:50,053 - INFO -   Rotation 270°: Combined Score = 0.1367
+2025-07-17 19:36:50,053 - INFO -   Beste Rotation: 0° (Score: 0.1577)
+2025-07-17 19:36:50,054 - INFO -   Original RZ: 35.82837°, Finale Rotation: 35.82837°
+2025-07-17 19:36:50,055 - INFO - Optimiere Rotation für Würfel 3 mit Target Ziel_2_2
+2025-07-17 19:36:50,079 - INFO -   Rotation 0°: Combined Score = 0.1546
+2025-07-17 19:36:50,097 - INFO -   Rotation 90°: Combined Score = 0.1160
+2025-07-17 19:36:50,108 - INFO -   Rotation 180°: Combined Score = 0.1488
+2025-07-17 19:36:50,123 - INFO -   Rotation 270°: Combined Score = 0.1356
+2025-07-17 19:36:50,124 - INFO -   Beste Rotation: 0° (Score: 0.1546)
+2025-07-17 19:36:50,125 - INFO -   Original RZ: 93.32886°, Finale Rotation: 93.32886°
+2025-07-17 19:36:50,126 - INFO - Optimiere Rotation für Würfel 4 mit Target Ziel_2_0
+2025-07-17 19:36:50,163 - INFO -   Rotation 0°: Combined Score = 0.1583
+2025-07-17 19:36:50,179 - INFO -   Rotation 90°: Combined Score = 0.1928
+2025-07-17 19:36:50,193 - INFO -   Rotation 180°: Combined Score = 0.1918
+2025-07-17 19:36:50,202 - INFO -   Rotation 270°: Combined Score = 0.1980
+2025-07-17 19:36:50,202 - INFO -   Beste Rotation: 270° (Score: 0.1980)
+2025-07-17 19:36:50,202 - INFO -   Original RZ: -19.27855°, Finale Rotation: 250.72145°
+2025-07-17 19:36:50,202 - INFO - Optimiere Rotation für Würfel 5 mit Target Ziel_1_2
+2025-07-17 19:36:50,242 - INFO -   Rotation 0°: Combined Score = 0.1922
+2025-07-17 19:36:50,242 - INFO -   Rotation 90°: Combined Score = 0.1174
+2025-07-17 19:36:50,265 - INFO -   Rotation 180°: Combined Score = 0.3749
+2025-07-17 19:36:50,277 - INFO -   Rotation 270°: Combined Score = 0.1937
+2025-07-17 19:36:50,277 - INFO -   Beste Rotation: 180° (Score: 0.3749)
+2025-07-17 19:36:50,277 - INFO -   Original RZ: 117.43317°, Finale Rotation: 297.43317°
+2025-07-17 19:36:50,277 - INFO - Optimiere Rotation für Würfel 6 mit Target Ziel_0_2
+2025-07-17 19:36:50,306 - INFO -   Rotation 0°: Combined Score = 0.2747
+2025-07-17 19:36:50,317 - INFO -   Rotation 90°: Combined Score = 0.3605
+2025-07-17 19:36:50,328 - INFO -   Rotation 180°: Combined Score = 0.1437
+2025-07-17 19:36:50,330 - INFO -   Rotation 270°: Combined Score = 0.1944
+2025-07-17 19:36:50,330 - INFO -   Beste Rotation: 90° (Score: 0.3605)
+2025-07-17 19:36:50,330 - INFO -   Original RZ: 48.00895°, Finale Rotation: 138.00895°
+2025-07-17 19:36:50,330 - INFO - Optimiere Rotation für Würfel 7 mit Target Ziel_0_0
+2025-07-17 19:36:50,371 - INFO -   Rotation 0°: Combined Score = 0.2031
+2025-07-17 19:36:50,379 - INFO -   Rotation 90°: Combined Score = 0.3304
+2025-07-17 19:36:50,387 - INFO -   Rotation 180°: Combined Score = 0.1191
+2025-07-17 19:36:50,397 - INFO -   Rotation 270°: Combined Score = 0.0139
+2025-07-17 19:36:50,399 - INFO -   Beste Rotation: 90° (Score: 0.3304)
+2025-07-17 19:36:50,399 - INFO -   Original RZ: -46.14936°, Finale Rotation: 43.85064°
+2025-07-17 19:36:50,399 - INFO - Optimiere Rotation für Würfel 8 mit Target Ziel_2_1
+2025-07-17 19:36:50,424 - INFO -   Rotation 0°: Combined Score = 0.1469
+2025-07-17 19:36:50,439 - INFO -   Rotation 90°: Combined Score = 0.0649
+2025-07-17 19:36:50,454 - INFO -   Rotation 180°: Combined Score = 0.1259
+2025-07-17 19:36:50,463 - INFO -   Rotation 270°: Combined Score = 0.1652
+2025-07-17 19:36:50,463 - INFO -   Beste Rotation: 270° (Score: 0.1652)
+2025-07-17 19:36:50,463 - INFO -   Original RZ: 112.73325°, Finale Rotation: 22.733249999999998°
+2025-07-17 19:36:50,463 - INFO - Optimiere Rotation für Würfel 9 mit Target Ziel_0_1
+2025-07-17 19:36:50,494 - INFO -   Rotation 0°: Combined Score = 0.1451
+2025-07-17 19:36:50,502 - INFO -   Rotation 90°: Combined Score = 0.2094
+2025-07-17 19:36:50,515 - INFO -   Rotation 180°: Combined Score = 0.1546
+2025-07-17 19:36:50,529 - INFO -   Rotation 270°: Combined Score = 0.1094
+2025-07-17 19:36:50,530 - INFO -   Beste Rotation: 90° (Score: 0.2094)
+2025-07-17 19:36:50,531 - INFO -   Original RZ: -24.69894°, Finale Rotation: 65.30106°
+2025-07-17 19:36:50,558 - INFO - Finale Rotationen gespeichert in: \\192.168.0.1\Vision_Daten\DU_3\Koordinaten_template_matching\final_rotations.txt
+2025-07-17 19:36:50,587 - INFO - Kopie für PowerBI erstellt: \\192.168.0.1\Vision_Daten\DU_3\PowerBI\final_rotations.txt
+2025-07-17 19:36:50,593 - INFO - pos.txt: 1,116.02821,-440.15027,55.671,wende
+2025-07-17 19:36:50,593 - INFO - pos.txt: 2,103.63587,-491.47546,35.828,Ziel_1_0
+2025-07-17 19:36:50,593 - INFO - pos.txt: 3,79.74755,-367.09222,93.329,Ziel_2_2
+2025-07-17 19:36:50,593 - INFO - pos.txt: 4,57.45378,-459.53668,250.721,Ziel_2_0
+2025-07-17 19:36:50,593 - INFO - pos.txt: 5,6.68194,-485.42349,297.433,Ziel_1_2
+2025-07-17 19:36:50,593 - INFO - pos.txt: 6,2.76641,-423.93494,138.009,Ziel_0_2
+2025-07-17 19:36:50,593 - INFO - pos.txt: 7,-43.73643,-378.30875,43.851,Ziel_0_0
+2025-07-17 19:36:50,593 - INFO - pos.txt: 8,-67.72891,-515.05957,22.733,Ziel_2_1
+2025-07-17 19:36:50,593 - INFO - pos.txt: 9,-90.1107,-436.10544,65.301,Ziel_0_1
+2025-07-17 19:36:50,608 - INFO - Finale pos.txt gespeichert: \\192.168.0.1\Vision_Daten\DU_3\Koordinaten_template_matching\pos.txt
+2025-07-17 19:36:50,642 - INFO - Kopie für PowerBI erstellt: \\192.168.0.1\Vision_Daten\DU_3\PowerBI\pos.txt
