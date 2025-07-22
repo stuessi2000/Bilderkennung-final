@@ -124,8 +124,8 @@ for t_path in templates:
 
      # Zeitmessung starten
     #start_time = time.time()
-    #name = t_path.stem
-    #print(f"Verarbeite {name}")
+    name = t_path.stem
+    print(f"Verarbeite {name}")
 
     # Template Preprocessing
     tpl       = imread_unicode(t_path)
@@ -142,8 +142,8 @@ for t_path in templates:
     # --- 3a) SIFT Matching ---
       # Zeitmessung starten
     start_time = time.time()
-    name = t_path.stem
-    print(f"Verarbeite {name}")
+    #name = t_path.stem
+    #print(f"Verarbeite {name}")
 
     if des_t is not None:
         for f_path in faces:
